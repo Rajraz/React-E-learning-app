@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/React-E-learning-app/static/css/main.0b30ce3f.css",
+    "main.js": "/React-E-learning-app/static/js/main.25014cd0.js",
+    "static/media/remixicon.svg?t=1590207869815": "/React-E-learning-app/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/remixicon.eot?t=1590207869815": "/React-E-learning-app/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/React-E-learning-app/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/remixicon.woff?t=1590207869815": "/React-E-learning-app/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/webdesign.png": "/React-E-learning-app/static/media/webdesign.904a30ea788c06e7d17f.png",
+    "static/media/hero-1.jpg": "/React-E-learning-app/static/media/hero-1.5866f8ade4beeecb4c8f.jpg",
+    "static/media/remixicon.woff2?t=1590207869815": "/React-E-learning-app/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/ui-ux.jpg": "/React-E-learning-app/static/media/ui-ux.81f0a7556937f1170e93.jpg",
+    "static/media/kids-learning.jpg": "/React-E-learning-app/static/media/kids-learning.32e72b8d1f3d42330f1e.jpg",
+    "static/media/grapicdesign.png": "/React-E-learning-app/static/media/grapicdesign.cd5db2a4f5a738aa61df.png",
+    "static/media/uidesign.jpg": "/React-E-learning-app/static/media/uidesign.b9015f62bcdd9ee4b890.jpg",
+    "static/media/seo.jpg": "/React-E-learning-app/static/media/seo.5d1a377d2521dffc0126.jpg",
+    "static/media/whychooseus.jpg": "/React-E-learning-app/static/media/whychooseus.a2258c6254add6a83bfa.jpg",
+    "static/media/web-development.jpg": "/React-E-learning-app/static/media/web-development.3e16598970aaf2716fe7.jpg",
+    "static/media/about.jpg": "/React-E-learning-app/static/media/about.489a314269294125df8b.jpg",
+    "index.html": "/React-E-learning-app/index.html",
+    "main.0b30ce3f.css.map": "/React-E-learning-app/static/css/main.0b30ce3f.css.map",
+    "main.25014cd0.js.map": "/React-E-learning-app/static/js/main.25014cd0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b30ce3f.css",
+    "static/js/main.25014cd0.js"
+  ]
+}
