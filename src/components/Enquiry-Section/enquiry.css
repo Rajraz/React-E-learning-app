@@ -1,0 +1,30 @@
+.newsletter {
+    background: #17bf9e;
+  
+    padding: 40px;
+    border-radius: 15px;
+  }
+  
+  .newsletter h2 {
+    color: #fff;
+  }
+  .subscribe input {
+    border: none;
+    outline: none;
+  }
+  
+.form-group input {
+    align-items: center;
+    text-align: center;
+    margin-bottom: 20px;
+    width: 700px;
+
+}
+.form-group select{
+    width: 710px;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 20px;
+    border-radius: 15px;
+    padding: 6px;
+}
